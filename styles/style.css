@@ -1658,6 +1658,7 @@ select.uk-form-width-xsmall {
     padding-right: 15px
 }
 
+
 @media (min-width:640px) {
     .uk-container {
         padding-left: 30px;
@@ -6099,6 +6100,10 @@ iframe.uk-cover {
 .uk-margin {
     margin-bottom: 20px
 }
+.uk-margin-top-baru {
+    margin-top: 100px;
+}
+
 
 *+.uk-margin,
 .uk-margin-top {
@@ -6305,6 +6310,12 @@ iframe.uk-cover {
 .uk-padding {
     padding: 30px
 }
+@media (min-width: 320px) and (max-width: 480px) {
+.resvon{
+    width: 100%;
+
+}   
+  }
 
 @media (min-width:1200px) {
     .uk-padding {
